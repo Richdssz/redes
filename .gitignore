@@ -3,3 +3,5 @@
 .agents/
 __pycache__/
 *.pyc
+
+/scripts
