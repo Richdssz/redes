@@ -1,4 +1,4 @@
-﻿# 📖 Fontes Recomendadas de Estudo: Redes de Computadores
+# 📖 Fontes Recomendadas de Estudo: Redes de Computadores
 
 Aqui estão as fontes padrão-ouro (acadêmicas e industriais) para você embasar seu aprendizado e fornecer trechos/tópicos para gerarmos quizzes, resumos e questões.
 
@@ -37,7 +37,15 @@ Aqui estão as fontes padrão-ouro (acadêmicas e industriais) para você embasa
 ---
 
 ## 📺 3. Canais e Vídeos Recomendados (YouTube)
+
+### 🎯 Vídeos Essenciais de Subnetting & Máscaras (Padrão-Ouro):
+- **[Subnet Mask - Explained](https://www.youtube.com/watch?v=s_Ntt6eTn94)**: Uma das explicações mais claras e visuais do YouTube sobre como a máscara de sub-rede separa a porção de rede da porção de host em nível de bits.
+- **[Subnetting doesn't have to be hard... \| CCNA Basics (Paolo Reyes)](https://www.youtube.com/watch?v=Oe8Vd12m4H4)**: Aula fundamental ensinando o método do **"Magic Number" (Número Mágico / Salto)**, eliminando cálculos longos e facilitando a resolução de sub-redes em segundos.
+
+### 🎙️ Canais Completos:
 - **NetworkChuck**: Aulas extremamente visuais, dinâmicas e práticas sobre sub-redes, TCP/IP, switches, roteadores e Wireshark.
+- **Jeremy's IT Lab (CCNA 200-301)**: Curso completo gratuito com laboratórios práticos no Cisco Packet Tracer.
+- **Bóson Treinamentos (Fábio dos Reis)**: Melhor referência prática em português para Packet Tracer do zero e cálculo de sub-redes.
 - **Professor Messer (CompTIA Network+)**: Conteúdo didático cobrindo cada tópico de certificação de redes de forma estruturada.
 - **Filipe Deschamps / Fábio Akita (Especiais de Redes)**: Excelentes vídeos em português sobre a história e o funcionamento da internet ("Como a internet funciona por debaixo dos panos").
 

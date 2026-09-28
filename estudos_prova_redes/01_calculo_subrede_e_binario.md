@@ -1,6 +1,10 @@
 # 🧮 01 - Guia Definitivo: Conversão Binária, Subnetting e Exercícios Resolvidos
 
 > **Foco:** Aprender o método visual do "Número Mágico" para nunca mais errar cálculo de sub-rede na prova e responder questões abertas com justificativas perfeitas.
+>
+> 📺 **Vídeos de Apoio Recomendados:**
+> - [Subnet Mask - Explained (YouTube)](https://www.youtube.com/watch?v=s_Ntt6eTn94) — A melhor introdução visual ao conceito de máscara de sub-rede.
+> - [Subnetting doesn't have to be hard... \| CCNA Basics - Paolo Reyes (YouTube)](https://www.youtube.com/watch?v=Oe8Vd12m4H4) — O método do "Magic Number" explicado com maestria.
 
 ---
 
