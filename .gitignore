@@ -1,4 +1,5 @@
 .env
 *.pdf
-Tanenbaum_Redes_de_Computadores_6a.pdf
-
+.agents/
+__pycache__/
+*.pyc
